@@ -1,0 +1,6 @@
+{
+  "name": "Seasonal Visual Effects",
+  "description": "A formal presentation application with high-fidelity falling snowflakes and rising balloons interactive micro-animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
