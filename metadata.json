@@ -1,6 +1,5 @@
 {
-  "name": "Seasonal Visual Effects",
-  "description": "A formal presentation application with high-fidelity falling snowflakes and rising balloons interactive micro-animations.",
-  "requestFramePermissions": [],
+  "name": "Particle Commander",
+  "description": "A premium sci-fi atmospheric simulation dashboard with a progression system, real-time performance HUD, multiple particle modes, popping indicators, and achievements.",
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
